@@ -47,7 +47,7 @@ align: c
 <div class="ns-c-tight">
 
 - [**Lab 1.** Introducere. Structura unui program C. Variabile.](10) 
-
+- [**Lab 2.** Tipuri de Date. Operatori & Operanzi.](31)
 
 </div>
 
@@ -58,4 +58,8 @@ src: ./presentations/0-overview/slides.md
 
 ---
 src: ./presentations/1-intro/slides.md
+---
+
+---
+src: ./presentations/2-data-types/slides.md
 ---

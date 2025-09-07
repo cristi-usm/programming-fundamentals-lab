@@ -4,8 +4,7 @@ layout: cover
 color: stone-light
 ---
 
-### Fundamentele Programării
-##### Laboratorul 1
+### Introducere. Structura unui program C. Variabile.
 
 
 ---
