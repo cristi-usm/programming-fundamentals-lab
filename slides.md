@@ -49,6 +49,7 @@ align: c
 - [**Lab 1.** Introducere. Structura unui program C. Variabile.](10) 
 - [**Lab 2.** Tipuri de Date. Operatori & Operanzi.](31)
 - [**Lab 3.** Instrucțiuni Condiționale - `if`, `else`, `switch`](64)
+- [**Lab 4.** Instrucțiuni Ciclice - `while`, `do-while`, `for`](85)
 
 </div>
 
@@ -67,4 +68,8 @@ src: ./presentations/2-data-types/slides.md
 
 ---
 src: ./presentations/3-conditionals/slides.md
+---
+
+---
+src: ./presentations/4-loops/slides.md
 ---
