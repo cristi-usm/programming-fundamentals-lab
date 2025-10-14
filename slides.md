@@ -51,6 +51,7 @@ align: c
 - [**Lab 3.** Instrucțiuni Condiționale - `if`, `else`, `switch`](64)
 - [**Lab 4.** Instrucțiuni Ciclice - `while`, `do-while`, `for`](85)
 - [**Lab 5.** Tablouri (Arrays)](114)
+- [**Lab 6.** Tablouri MultiDimensionale](137)
 </div>
 
 
@@ -76,4 +77,8 @@ src: ./presentations/4-loops/slides.md
 
 ---
 src: ./presentations/5-arrays/slides.md
+---
+
+---
+src: ./presentations/6-n-arrays/slides.md
 ---
