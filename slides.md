@@ -52,6 +52,7 @@ align: c
 - [**Lab 4.** Instrucțiuni Ciclice - `while`, `do-while`, `for`](85)
 - [**Lab 5.** Tablouri (Arrays)](114)
 - [**Lab 6.** Tablouri MultiDimensionale](137)
+- [**Lab 6.** Șiruri de Caractere (Strings) în C](155)
 </div>
 
 
@@ -81,4 +82,8 @@ src: ./presentations/5-arrays/slides.md
 
 ---
 src: ./presentations/6-n-arrays/slides.md
+---
+
+---
+src: ./presentations/7-strings/slides.md
 ---
