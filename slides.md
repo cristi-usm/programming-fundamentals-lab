@@ -20,7 +20,7 @@ addons:
     - slidev-addon-cpp-runner
 c:
   compiler: 'gcc'
-  standard: 'c2x'
+  standard: 'gcc'
   optimization: 'O2'
   flags: '-Wall -Wextra -pedantic -pthread -pedantic-errors'
   libraries: '-lm -latomic'
@@ -54,6 +54,8 @@ align: c
 - [**Lab 6.** Tablouri MultiDimensionale](137)
 - [**Lab 7.** Șiruri de Caractere (Strings) în C](155)
 - [**Lab 8.** Funcții în C](185)
+- [**Lab 9.** Pointeri](209)
+
 </div>
 
 
@@ -91,4 +93,8 @@ src: ./presentations/7-strings/slides.md
 
 ---
 src: ./presentations/8-functions/slides.md
+---
+
+---
+src: ./presentations/9-pointers/slides.md
 ---
