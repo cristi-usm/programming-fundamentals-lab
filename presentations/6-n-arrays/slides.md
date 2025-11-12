@@ -2,6 +2,22 @@
 transition: slide-left
 layout: cover
 color: stone-light
+c:
+  compiler: 'g++'
+  standard: 'c2x'
+  optimization: 'O2'
+  flags: '-Wall -Wextra -pedantic -pthread -pedantic-errors -Wno-format -Wno-format-security -Wno-format-extra-args'
+  libraries: '-lm -latomic'
+  extraCommands: ''
+  alwaysShowCompilerOutput: true
+cpp:
+  compiler: 'g++'
+  standard: 'c++17'
+  optimization: 'O2'
+  flags: '-Wall -Wextra -pedantic -pthread -pedantic-errors -Wno-format -Wno-format-security -Wno-format-extra-args'
+  libraries: '-lm -latomic'
+  extraCommands: ''
+  alwaysShowCompilerOutput: true
 ---
 
 ### Tablouri Multidimensionale în C

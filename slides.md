@@ -19,10 +19,18 @@ addons:
     - slidev-addon-excalidraw
     - slidev-addon-cpp-runner
 c:
-  compiler: 'gcc'
-  standard: 'gcc'
+  compiler: 'g++'
+  standard: 'c2x'
   optimization: 'O2'
-  flags: '-Wall -Wextra -pedantic -pthread -pedantic-errors'
+  flags: '-Wall -Wextra -pedantic -pthread -pedantic-errors -Wno-format -Wno-format-security -Wno-format-extra-args'
+  libraries: '-lm -latomic'
+  extraCommands: ''
+  alwaysShowCompilerOutput: true
+cpp:
+  compiler: 'g++'
+  standard: 'c++17'
+  optimization: 'O2'
+  flags: '-Wall -Wextra -pedantic -pthread -pedantic-errors -Wno-format -Wno-format-security -Wno-format-extra-args'
   libraries: '-lm -latomic'
   extraCommands: ''
   alwaysShowCompilerOutput: true
