@@ -64,7 +64,7 @@ align: c
 - [**Lab 8.** Funcții în C](185)
 - [**Lab 9.** Pointeri](209)
 - [**Lab 10.** Recapitulare - Sarcini](241)
-
+- [**Lab 11.** Enumuri, Structuri și Fișiere ](256)
 
 </div>
 
@@ -111,4 +111,8 @@ src: ./presentations/9-pointers/slides.md
 
 ---
 src: ./presentations/10-recap/slides.md
+---
+
+---
+src: ./presentations/11-enum-structs-files/slides.md
 ---
