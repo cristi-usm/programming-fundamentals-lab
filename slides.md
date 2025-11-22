@@ -63,6 +63,8 @@ align: c
 - [**Lab 7.** Șiruri de Caractere (Strings) în C](155)
 - [**Lab 8.** Funcții în C](185)
 - [**Lab 9.** Pointeri](209)
+- [**Lab 10.** Recapitulare - Sarcini](241)
+
 
 </div>
 
@@ -105,4 +107,8 @@ src: ./presentations/8-functions/slides.md
 
 ---
 src: ./presentations/9-pointers/slides.md
+---
+
+---
+src: ./presentations/10-recap/slides.md
 ---
